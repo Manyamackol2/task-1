@@ -12,4 +12,7 @@ I built a simple responsive landing page using HTML and CSS for event planning c
 
 ## Responsive Design
 The navigation menu collapses into a stacked layout on smaller screens (≤768px) for better mobile usability.
-
+## Files Included
+- `index.html`: Main structure of the landing page
+- `style.css`: Styling using Flexbox and media queries
+- `README.md`: Project description
